@@ -15,8 +15,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## College / Uni Projects
 ### MetaEvil
+https://chickon98.itch.io/metaevil
+This was a group project for Atu/ Gmit my self and 2 others built a game called MetaEvil the presmises of the game was. The game would coment on the players progress, Choices, failures. 
+It contained
+- 2 Bosses
+- Random npcs
+- Shop
+- Health & stanima
+- Dialog from Npcs
 
-This was a group project for Atu/ Gmit my self and 2 others built a game called MetaEvil the presmises of the game was. The game would 
+This project got us into the 2nd stage of enterprise ireland student awards. The game reviced some fixes from me affter release it is now considered finished.
 
 ## Personal Projects
 
@@ -53,13 +61,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/killbot24/Website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Linkedin [https://www.linkedin.com/in/thomas-burke-277a1b224/](url)
