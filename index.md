@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/killbot24/Website/edit/gh-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Languages
+## Languages
 - Java
 - JavaScript
 - Php
@@ -13,15 +13,26 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Css
 - Html
 
-### College / Uni Projects
+## College / Uni Projects
+### MetaEvil
 
-### Personal Projects
+This was a group project for Atu/ Gmit my self and 2 others built a game called MetaEvil the presmises of the game was. The game would 
 
-# Kingdoms project
+## Personal Projects
 
-### Built for others
+### Kingdoms
 
-# **Chatfilter**
+Kingdoms is a single player game where the player experiance. Things players would be able to do is
+
+-Quests
+-Craft
+-Choose what certin buildings are
+
+This is a standalone version that i am building my self of a gamemode that was going to be apart of dapperfox
+
+## Built for others
+
+### **Chatfilter**
 
 Chatfilter i built for [https://dapperfoxstudios.com/](url) for their kinetic network. I built this when i was a admin for their servers It wasnt requested i just got tired of people ruining the player experiance for others when their was no staff online.
 
