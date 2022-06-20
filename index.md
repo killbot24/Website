@@ -13,7 +13,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Css
 - Html
 
+###College / Uni Projects
 
+###Personal Projects
+
+###Built for others
+
+#Chatfilter
+Chatfilter i built for [[Link](https://dapperfoxstudios.com/)](url) for their kinetic network. I built this when i was a admin for their servers It wasnt requested i just got tired of people ruining the player experiance for others when their was no staff online
 
 ```markdown
 Syntax highlighted code block
