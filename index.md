@@ -43,23 +43,7 @@ This is a standalone version that i am building my self of a gamemode that was g
 
 ### **Chatfilter**
 
-Chatfilter i built for [https://dapperfoxstudios.com/](url) for their kinetic network. I built this when i was a admin for their servers It wasnt requested i just got tired of people ruining the player experiance for others when their was no staff online. 
+Chatfilter i built for [https://dapperfoxstudios.com/](url) for their kinetic network. I built this when i was a admin for their servers It wasnt requested i just got tired of people ruining the player experiance for others when their was no staff online. This runs on the api spigot & sponge
+[Source](https://github.com/killbot24/chatfilter)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 Linkedin [https://www.linkedin.com/in/thomas-burke-277a1b224/](url)
