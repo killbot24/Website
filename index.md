@@ -15,7 +15,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## College / Uni Projects
 ### MetaEvil
-https://chickon98.itch.io/metaevil
+[https://chickon98.itch.io/metaevil](url)
+![[meta](https://img.itch.zone/aW1hZ2UvMTQ4NTAwNS84ODU0MjA4LnBuZw==/original/QSEZHJ.png)](src)
 This was a group project for Atu/ Gmit my self and 2 others built a game called MetaEvil the presmises of the game was. The game would coment on the players progress, Choices, failures. 
 It contained
 - 2 Bosses
@@ -42,7 +43,7 @@ This is a standalone version that i am building my self of a gamemode that was g
 
 ### **Chatfilter**
 
-Chatfilter i built for [https://dapperfoxstudios.com/](url) for their kinetic network. I built this when i was a admin for their servers It wasnt requested i just got tired of people ruining the player experiance for others when their was no staff online.
+Chatfilter i built for [https://dapperfoxstudios.com/](url) for their kinetic network. I built this when i was a admin for their servers It wasnt requested i just got tired of people ruining the player experiance for others when their was no staff online. 
 
 ```markdown
 Syntax highlighted code block
