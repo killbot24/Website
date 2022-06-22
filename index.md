@@ -1,8 +1,7 @@
 ## Thomas Burke Profolio
 
 You can use the [editor on GitHub](https://github.com/killbot24/Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello, I am Thomas Burke i am a recent grad of Atu/ Gmit. Where i have recently completed my honors degree of Digital media & Computeing. I currently volnteer at dapperfox group as a software engineer. I am currently working on a personal project of a game called kingdoms.
 
 ## Languages
 - Java
