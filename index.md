@@ -16,7 +16,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## College / Uni Projects
 ### MetaEvil
 [https://chickon98.itch.io/metaevil](url)
-![[meta](https://img.itch.zone/aW1hZ2UvMTQ4NTAwNS84ODU0MjA4LnBuZw==/original/QSEZHJ.png)](src)
+![(https://img.itch.zone/aW1hZ2UvMTQ4NTAwNS84ODU0MjA4LnBuZw==/original/QSEZHJ.png)](src)
 This was a group project for Atu/ Gmit my self and 2 others built a game called MetaEvil the presmises of the game was. The game would coment on the players progress, Choices, failures. 
 It contained
 - 2 Bosses
