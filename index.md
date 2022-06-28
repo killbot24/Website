@@ -13,7 +13,7 @@ Hello, I am Thomas Burke I am a recent grad of Atu/ Gmit. Where I have recently 
 
 ## College / Uni Projects
 ### MetaEvil
-[https://chickon98.itch.io/metaevil](url)
+https://chickon98.itch.io/metaevil
 
 Role: Lead programmer.
 I oversaw programming I built out all mechanics bar the character animation code and the original base of the inventory. I modified the inventory to meet our needs along with building the ai, Combat, Dialog, Shop, Health and stamina 
