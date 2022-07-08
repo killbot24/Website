@@ -12,6 +12,11 @@ Hello, I am Thomas Burke I am a recent grad of Atu/ Gmit. Where I have recently 
 - Html
 
 ## College / Uni Projects
+### React Web app
+
+This app was built for a project. It uses restful api to build a store. 
+[React App](https://github.com/killbot24/DataRep-Project)
+
 ### MetaEvil
 https://chickon98.itch.io/metaevil
 
