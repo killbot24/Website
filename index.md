@@ -38,6 +38,6 @@ Kingdoms is a single-player game that the player experiences. It is going to be 
 
 Chatfilter I built for [https://dapperfoxstudios.com/](url) for their kinetic network. I built this when I was an admin for their servers It wasn’t requested I just got tired of people ruining the player experience for others when there was no staff online. This runs on the API spigot & sponge
 
-[Source Sponge](https://github.com/killbot24/Chatfilter-Sponge)
-[Source Paper](https://github.com/killbot24/Chatfilter-Paper)
+[Source Sponge](https://github.com/killbot24/chatfilter-Sponge)
+[Source Paper](https://github.com/killbot24/chatfilter-spigot)
 Linkedin [https://www.linkedin.com/in/thomas-burke-277a1b224/](url)
