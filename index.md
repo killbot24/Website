@@ -30,13 +30,6 @@ With this project we got into stage 2 of the enterprise ireland student awards
 
 ![MetaEvil](meta.png)
 
-
-## Personal Projects
-
-### Kingdoms
-
-Kingdoms is a single-player game that the player experiences. It is going to be a small RPG game with the ability for the player to craft do quests, and Manage a town.
-
 ## Built for others
 
 ### **Chatfilter**
