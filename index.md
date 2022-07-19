@@ -33,9 +33,9 @@ With this project we got into stage 2 of the enterprise ireland student awards
 ### Breakit
 
 Is a vr game built in unity the goal of the game is to break objects earning you points with out being caught by the guard. The vases will break with a animation upon contact with your bat. Paintings will change.
-![vases](breakit1.png)
-![painting](breakit2.png)
-![map](breakit3.png)
+![vases](breakit1.PNG)
+![painting](breakit2.PNG))
+![map](breakit3.PNG)
 ## Built for others
 
 ### **Chatfilter**
