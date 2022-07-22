@@ -52,5 +52,5 @@ Linkedin [https://www.linkedin.com/in/thomas-burke-277a1b224/](url)
 
 Kingdoms is a protype that i am working on in unity. It was orginaly ment to be a minecraft server that was going to be modifyed server side to include new mechanics. I am now working on makeing a protype single player versuion of this that will include Quests , Resource collection, and building mangment. 
 
-#Inventory
+# Inventory
 ![inventory](Inventory.PNG)
