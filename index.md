@@ -11,6 +11,7 @@ Hello, I am Thomas Burke I am a recent grad of Atu/ Gmit. Where I have recently 
 - Css
 - Html
 - C# (In unity only)
+- Some C++
 
 ## College / Uni Projects
 ### React Web app
