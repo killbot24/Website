@@ -10,6 +10,7 @@ Hello, I am Thomas Burke I am a recent grad of Atu/ Gmit. Where I have recently 
 - React
 - Css
 - Html
+- C# (In unity only)
 
 ## College / Uni Projects
 ### React Web app
@@ -45,3 +46,11 @@ Chatfilter I built for [https://dapperfoxstudios.com/](url) for their kinetic ne
 [Source Sponge](https://github.com/killbot24/chatfilter-Sponge)
 [Source Paper](https://github.com/killbot24/chatfilter-spigot)
 Linkedin [https://www.linkedin.com/in/thomas-burke-277a1b224/](url)
+### Personal projects
+
+## Kingdoms
+
+Kingdoms is a protype that i am working on in unity. It was orginaly ment to be a minecraft server that was going to be modifyed server side to include new mechanics. I am now working on makeing a protype single player versuion of this that will include Quests , Resource collection, and building mangment. 
+
+#Inventory
+![inventory](Inventory.PNG)
