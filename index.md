@@ -49,10 +49,4 @@ Chatfilter I built for [https://dapperfoxstudios.com/](url) for their kinetic ne
 Linkedin [https://www.linkedin.com/in/thomas-burke-277a1b224/](url)
 ### Personal projects
 
-## Kingdoms
-
-Kingdoms is a protype that i am working on in unity. It was orginaly ment to be a minecraft server that was going to be modifyed server side to include new mechanics. I am now working on makeing a protype single player versuion of this that will include Quests , Resource collection, and building mangment. 
-
-Inventory
-
-![inventory](Inventory.PNG)
+Currently i am toying with the idea of either building a protype called kingdoms thats a standalone of  a minecraft server idea that was being worked on in dapperfox. Or rebuilding breakit in unreal with the possiblity of turning it into a full game
