@@ -38,7 +38,12 @@ Is a vr game built in unity the goal of the game is to break objects earning you
 ![vases](breakit1.PNG)
 ![painting](breakit2.PNG)
 ![map](breakit3.PNG)
-## Built for others
+
+## Personal projects
+
+### Breakit
+
+Currently i am working on rebuilding breakit a vr game i built for uni. This time i am building it in the unreal engine and hope to add features that did not have time todo.
 
 ### **Chatfilter**
 
@@ -47,6 +52,4 @@ Chatfilter I built for [https://dapperfoxstudios.com/](url) for their kinetic ne
 [Source Sponge](https://github.com/killbot24/chatfilter-Sponge)
 [Source Paper](https://github.com/killbot24/chatfilter-spigot)
 Linkedin [https://www.linkedin.com/in/thomas-burke-277a1b224/](url)
-### Personal projects
 
-Currently i am toying with the idea of either building a protype called kingdoms thats a standalone of  a minecraft server idea that was being worked on in dapperfox. Or rebuilding breakit in unreal with the possiblity of turning it into a full game
