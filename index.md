@@ -20,8 +20,8 @@ This app was built for a project. It uses restful api to build a store.
 [React App](https://github.com/killbot24/DataRep-Project)
 
 ### MetaEvil
-https://chickon98.itch.io/metaevil
 
+[Itch.io](https://chickon98.itch.io/metaevil)
 Role: Lead programmer.
 I oversaw programming I built out all mechanics bar the character animation code and the original base of the inventory. I modified the inventory to meet our needs along with building the ai, Combat, Dialog, Shop, Health and stamina 
 
@@ -38,6 +38,9 @@ Is a vr game built in unity the goal of the game is to break objects earning you
 ![vases](breakit1.PNG)
 ![painting](breakit2.PNG)
 ![map](breakit3.PNG)
+[game.apk](https://drive.google.com/file/d/1gAcST2EA8I1HYDUs_WcxBCfe6ZN9s6yW/view?usp=sharing)
+
+
 
 ## Personal projects
 
