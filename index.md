@@ -22,6 +22,8 @@ This app was built for a project. It uses restful api to build a store.
 ### MetaEvil
 
 [Itch.io](https://chickon98.itch.io/metaevil)
+
+
 Role: Lead programmer.
 I oversaw programming I built out all mechanics bar the character animation code and the original base of the inventory. I modified the inventory to meet our needs along with building the ai, Combat, Dialog, Shop, Health and stamina 
 
@@ -37,7 +39,8 @@ With this project we got into stage 2 of the enterprise ireland student awards
 Is a vr game built in unity the goal of the game is to break objects earning you points with out being caught by the guard. The vases will break with a animation upon contact with your bat. Paintings will change.
 ![vases](breakit1.PNG)
 ![painting](breakit2.PNG)
-![map](breakit3.PNG)
+
+
 [game.apk](https://drive.google.com/file/d/1gAcST2EA8I1HYDUs_WcxBCfe6ZN9s6yW/view?usp=sharing)
 
 
