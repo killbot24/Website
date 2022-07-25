@@ -36,7 +36,7 @@ With this project we got into stage 2 of the enterprise ireland student awards
 ![MetaEvil](PUvB1f.png)
 ### Breakit
 
-Is a vr game built in unity the goal of the game is to break objects earning you points with out being caught by the guard. The vases will break with a animation upon contact with your bat. Paintings will change.
+Is a vr for oculus quest 2 game built in unity the goal of the game is to break objects earning you points with out being caught by the guard. The vases will break with a animation upon contact with your bat. Paintings will change.
 ![vases](breakit1.PNG)
 ![painting](breakit2.PNG)
 
