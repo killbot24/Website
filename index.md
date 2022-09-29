@@ -17,7 +17,7 @@ Hello, I am Thomas Burke I am a recent grad of Atu/ Gmit. Where I have recently 
 ### React Web app
 
 This app was built for a project. It uses restful api to build a store. 
-![ReactApp](datarep.png)
+![ReactApp](datarep.PNG)
 [React App](https://github.com/killbot24/DataRep-Project)
 
 ### MetaEvil
