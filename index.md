@@ -17,6 +17,7 @@ Hello, I am Thomas Burke I am a recent grad of Atu/ Gmit. Where I have recently 
 ### React Web app
 
 This app was built for a project. It uses restful api to build a store. 
+![ReactApp](datarep.png)
 [React App](https://github.com/killbot24/DataRep-Project)
 
 ### MetaEvil
@@ -43,13 +44,14 @@ Is a vr for oculus quest 2 game built in unity the goal of the game is to break 
 
 [game.apk](https://drive.google.com/file/d/1gAcST2EA8I1HYDUs_WcxBCfe6ZN9s6yW/view?usp=sharing)
 
-
-
+### Game (un named)
+This was a project i built out for a class called 3dworlds. I aimed to build a simple game but add some extra features in. Such extra features are extra endings deppending on the players choice. 
+![Map](3dworlds.PNG)
 ## Personal projects
 
 ### Breakit
 
-Currently i am working on rebuilding breakit a vr game i built for uni. This time i am building it in the unreal engine and hope to add features that did not have time todo.
+Working on re makeing breakit on UE5, To also include new features
 
 ### **Chatfilter**
 
