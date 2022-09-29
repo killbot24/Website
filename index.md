@@ -51,7 +51,7 @@ This was a project i built out for a class called 3dworlds. I aimed to build a s
 
 ### Breakit
 
-Working on re makeing breakit on UE5, To also include new features
+Working on re makeing breakit on UE5, To also include new features that was orginly going to be in the orginal.
 
 ### **Chatfilter**
 
