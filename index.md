@@ -49,9 +49,7 @@ This was a project i built out for a class called 3dworlds. I aimed to build a s
 ![Map](3dworlds.PNG)
 ## Personal projects
 
-### Breakit
 
-Working on re makeing breakit on UE5, To also include new features that was orginly going to be in the orginal.
 
 ### **Chatfilter**
 
