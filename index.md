@@ -32,7 +32,9 @@ Project desc,
 This was a group project for Atu/ Gmit. I and 2 others built a game called MetaEvil the premises of the game. The game would comment on the player’s progress, Choices, and failures. 
 
 With this project we got into stage 2 of the enterprise ireland student awards
-
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="https://youtu.be/0rdKCGFzOHQ">
+</video>
 ![MetaEvil](meta.png)
 ![MetaEvil](PUvB1f.png)
 ### Breakit
