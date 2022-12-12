@@ -1,7 +1,7 @@
 ## Thomas Burke Profolio
 
 Hello, I am Thomas Burke I am a recent grad of Atu/ Gmit. Where I have recently completed my honours degree in Digital media & Computing with second-class honors. For this, I also completed a level 7 degree in Digital media & Computing with a distinction. I currently volunteer at dapper fox group as a software engineer. I am currently working on a personal project for a game called kingdoms. I enjoy programming I am most skilled in java and have no issue picking up new skills
-#[Github](https://github.com/killbot24)
+[Github](https://github.com/killbot24)
 ## Languages
 - Java
 - JavaScript
